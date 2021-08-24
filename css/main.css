@@ -89,6 +89,10 @@ img {
   padding: 1rem;
 }
 
+.card-img {
+  background-color: #006400;
+}
+
 .about {
   background-color: #002c00;
 }
